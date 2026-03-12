@@ -1,7 +1,7 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Dan Villegas
+email: 670daniel.villegas@gmail.com
+url: https://dan-villegas.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -25,7 +25,7 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
+  primary: fca311
   primary-rgb: "45,215,185" #"128,179,255"
   secondary: 48597a #FD6E8A
   secondary-dark: 001846 #A2122F
